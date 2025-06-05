@@ -402,5 +402,8 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# Ignore local development launch settings
+**/launchSettings.json
+**/appsettings.Development
 # JetBrains Rider
 *.sln.iml
